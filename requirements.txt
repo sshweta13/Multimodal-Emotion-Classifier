@@ -1,0 +1,7 @@
+gradio==4.44.1
+torch
+transformers
+deepface
+opencv-python
+tf-keras
+tensorflow==2.12.0
